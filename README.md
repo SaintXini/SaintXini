@@ -62,7 +62,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaintXini&show_icons=true&locale=es&theme=default&hide_border=true" alt="GitHub Stats" height="170"/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaintXini&show_icons=true&locale=es&layout=compact&theme=default&hide_border=true" alt="Top Langs" height="170"/>
 </p>
 
